@@ -1,72 +1,148 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Crooder — Cloud & DevOps Engineer banner" />
+  <img src="assets/banner.png" alt="Crooder - Cloud & DevOps Engineer" width="100%" />
 </p>
 
-<h1 align="center">🚀 Welcome to my Cloud & DevOps space</h1>
+<h1 align="center">🚀 Welcome to My DevOps Space</h1>
 <p align="center">
-  Automating infra, shipping reliably, and scaling on AWS | GCP | Linux | K8s | CI/CD
+  <strong>DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD</strong>
 </p>
+
+---
+
+## 👋 About Me
+
+Hey there — I’m a DevOps engineer focused on building scalable, reliable infrastructure and automating every part of the software lifecycle. My goal is to make deployments frictionless and systems resilient.
+
+💡 **Let’s innovate, automate, and optimize.**
+
+---
+
+## 💫 My DevOps Guide
+
+### 🌩️ Cloud & Infrastructure
+- Architecting and managing scalable, secure infrastructure  
+- Deep experience with **AWS**, **Azure**, and **Kubernetes**
+
+### 🤖 Automation & CI/CD
+- Building robust pipelines with **Jenkins**, **GitHub Actions**, and **GitLab CI**  
+- Managing infrastructure as code (IaC) with **Terraform** and **Ansible**
+
+### 📝 Content & Knowledge Sharing
+- Writing technical blogs and tutorials  
+- Contributing to open-source projects  
+- Curating resources for DevOps learners
+
+---
+
+## 🔗 Quick Links
+- [🌐 Portfolio](#)  
+- [📄 Resume](#)  
+- [📝 Blog](#)  
+- [🔗 Connect](#)
+
+---
+
+## 🌐 DevOps Learning Hub
+
+> Empowering DevOps & Cloud learners — one resource at a time.
+
+Your one-stop destination for practical DevOps knowledge and hands-on experience.
+
+### 📚 Learning Resources
+- 💻 **Real-Time Projects Hub** – Hands-on projects from beginner to advanced  
+- 📚 **Docs Portal** – 900+ curated DevOps articles & study materials  
+- 📦 **Repositories Central** – Scripts, infrastructure code & preparation content  
+- 🧭 **Jobs Portal** – DevOps career opportunities and job listings  
+- 📰 **DevOps Blog** – Best practices, deep dives, and tutorials  
+- ☁️ **Cloud Blog** – Real-world architecture and deployment guides  
+- 🐳 **Docker to Kubernetes** – Master containerization workflows  
+- 🧰 **Tools & Guides** – Installers, setup guides, and environment toolkits  
+- 📑 **Cheatsheets** – Handy references for tools and best practices  
+- 📊 **Monitoring in a Box** – Prometheus, Grafana, Loki & more, pre-configured
+
+---
+
+## 🎯 Mission
+
+DevOps knowledge should be accessible to everyone. We believe in:
+
+- 🔓 Breaking down paywalls  
+- 🛠️ Learning by building  
+- 🤝 Community-driven growth  
+- 📈 Continuous improvement  
+- 🌍 Global collaboration  
+
+---
+
+## 🤝 Connect With Me
+- [LinkedIn](#)  
+- [GitHub](#)  
+- [Telegram](#)  
+- [Email](#)
+
+---
+
+## 📂 Featured Repositories
+
+### 🌟 Popular Projects
+- DevOps Real-Time Projects  
+- Kubernetes Learning Path  
+- 1100+ DevOps Interview Questions  
+- AWS DevOps Deployment Templates  
+
+### 🔧 Tools & Guides
+- CI/CD Pipeline for AWS EKS  
+- DevOps Tool Installer  
+- Azure DevOps Guide  
+- DevOps Cheatsheet  
+
+---
+
+## 📝 Latest Blog Posts
+
+- ✍️ [Scripting in DevOps](#)  
+- 📁 [Linux Filesystem Deep Dive](#)  
+- 🐳 [Docker Concepts Explained](#)  
+- ☸️ [Kubernetes Essentials](#)
+
+---
+
+## ⚙️ Tech Stack
+
+| Cloud | CI/CD | Containers | Infra & Monitoring |
+|-------|------|------------|--------------------|
+| AWS, Azure, GCP | Jenkins, GitHub Actions, GitLab CI | Docker, Kubernetes, Helm | Terraform, Ansible, Prometheus, Grafana |
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://wikdup.com" target="_blank"><b>Portfolio</b></a> •
-  <a href="mailto:hello@wikdup.com"><b>Email</b></a> •
-  <a href="https://www.linkedin.com/in/mananpaliwal/" target="_blank"><b>LinkedIn</b></a> •
-  <a href="https://github.com/croodycoder?tab=repositories"><b>All Repos</b></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=croodycoder&show_icons=true&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=croodycoder&layout=compact&theme=dark" height="170"/>
 </p>
+
+---
+
+## 🏆 Community Impact
+
+- 🌟 5000+ GitHub stars across projects  
+- 🍴 1000+ forks  
+- 👨‍💻 50+ open-source contributors  
+- 📚 900+ curated learning resources shared  
+
+---
+
+## 💝 Support My Work
+
+> If you find my work helpful, consider supporting it — it helps me keep creating valuable DevOps content.
+
+- [☕ Buy Me a Coffee](#)  
+- [💰 Sponsor on GitHub](#)  
+- [❤️ Ko-Fi](#)
+
+---
 
 <p align="center">
-  <a href="https://github.com/croodycoder?tab=followers">
-    <img src="https://img.shields.io/github/followers/croodycoder?label=Follow&style=flat" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Automation%20%7C%20Kubernetes-informational" />
-  <img src="https://img.shields.io/badge/Tools-AWS%20%7C%20Terraform%20%7C%20Jenkins%20%7C%20Docker%20%7C%20Linux-success" />
+  <img src="assets/footer.png" width="100%" />
 </p>
-
----
-
-## 🧭 What I do
-- Provision **secure, reproducible** infra with **Terraform**
-- Build **CI/CD** with **Jenkins/GitHub Actions**, blue-green & canary
-- Containerize & orchestrate with **Docker + Kubernetes**
-- Observability with **CloudWatch/Prometheus/Grafana**, cost & reliability reviews
-- Flutter/BLoC & Node/FastAPI when the stack needs it
-
-## 🔥 Highlights
-- **AWS-Jenkins-Pipeline** – fully automated CI/CD to EC2/CodeDeploy
-- **Jenkins-Zero-To-Hero** – install, agents, shared libraries, GitOps
-- **Ansible examples** – quick starters for common server roles
-- **Mission / Finance_App** – sample app backends & pipelines
-
-> Want the details? Dive into the pinned repos below 👇
-
-<details>
-  <summary><b>📦 Tooling & Templates</b></summary>
-
-- **terraform-aws-ecs-ec2-template** – opinionated ECS on EC2 template
-- **github-actions-templates** – reusable workflows (build/test/deploy)
-- **jenkins-shared-library** – pipeline libs for multi-repo fleets
-</details>
-
----
-
-## 📊 Stats & activity
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=croodycoder&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croodycoder&layout=compact&hide_border=true" />
-</p>
-
-<!-- Optional: trophies & metrics -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=croodycoder&no-frame=true&margin-w=10" /> -->
-
----
-
-## 📚 Learn • Practise • Repeat
-- Weekly mini-labs: Terraform modules, Jenkins pipelines, K8s manifests
-- TIL notes: `/notes` folder (small, daily commits keep me honest)
-- Open to collaborate on DevOps starter kits & real-world infra refactors
-
----
-
-## 🤝 Let’s work together
-If you’re modernizing infra, building a pipeline, or need a rescue on prod issues,
-**DM on LinkedIn** or **email** and I’ll jump in.
