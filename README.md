@@ -34,7 +34,7 @@
 class croodycoder:
     def __init__(self):
         self.mindset = "Never say 'I don't know'"
-        self.origin = "Maharashtra 🌱 - Land of Warriors"
+        self.origin = "Udaipur 🌊 - City of Lakes"
         self.mission = "Transform challenges into scalable solutions"
         self.expertise = ["DevOps", "AI Workflows", "Cloud Architecture"]
         self.superpower = "Problem-solving with relentless determination"
