@@ -68,7 +68,7 @@ class croodycoder:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,gcp,git,jenkins,docker,kubernetes,terraform,vscode)](https://skillicons.dev)
 
-Hey there! 👋 I'm **Manan**, a Google Cloud Engineer with a knack for turning chaotic clouds into well-orchestrated skies. 🌤️
+Hey there! 👋 I'm **Manan**, a Cloud Engineer with a knack for turning chaotic clouds into well-orchestrated skies. 🌤️
 You know that feeling when your CI/CD pipeline works on the first try? Yeah, me neither but when it does happen, it's pure magic! ✨ When I'm not herding Kubernetes clusters or automating everything in sight, you'll find me exploring new tools, tweaking my setups, or hunting down that one elusive bug that only appears in production (because of course it does).
 
 ## A Few Things About Me:
@@ -92,6 +92,6 @@ You know that feeling when your CI/CD pipeline works on the first try? Yeah, me 
 
 ### 💬 **Open for Opportunities:**
 
-`Senior DevOps Engineer` • `Platform Engineering` • `Site Reliability Engineering` • `Cloud Architecture` • `Technical Writing`
+`Senior DevOps Engineer` • `Platform Engineering` • `Site Reliability Engineering` • `Cloud Architecture` • `Technical Writing` • `Founding Engineer`
 
 </div>
