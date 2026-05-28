@@ -1,148 +1,97 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Crooder - Cloud & DevOps Engineer" width="100%" />
-</p>
+#
 
-<h1 align="center">🚀 Welcome to My DevOps Space</h1>
-<p align="center">
-  <strong>DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD</strong>
-</p>
+<div align="center">
 
----
+<!-- Profile Stats with Glassmorphism Cards -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=karadhub&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20Years-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/BLOGS-Medium-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
+    </td>
+  </tr>
+</table>
 
-## 👋 About Me
-
-Hey there — I’m a DevOps engineer focused on building scalable, reliable infrastructure and automating every part of the software lifecycle. My goal is to make deployments frictionless and systems resilient.
-
-💡 **Let’s innovate, automate, and optimize.**
-
----
-
-## 💫 My DevOps Guide
-
-### 🌩️ Cloud & Infrastructure
-- Architecting and managing scalable, secure infrastructure  
-- Deep experience with **AWS**, **Azure**, and **Kubernetes**
-
-### 🤖 Automation & CI/CD
-- Building robust pipelines with **Jenkins**, **GitHub Actions**, and **GitLab CI**  
-- Managing infrastructure as code (IaC) with **Terraform** and **Ansible**
-
-### 📝 Content & Knowledge Sharing
-- Writing technical blogs and tutorials  
-- Contributing to open-source projects  
-- Curating resources for DevOps learners
+</div>
 
 ---
 
-## 🔗 Quick Links
-- [🌐 Portfolio](#)  
-- [📄 Resume](#)  
-- [📝 Blog](#)  
-- [🔗 Connect](#)
+<!-- About Section with Modern Layout -->
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+### 🐍 **Philosophy**
+
+```python
+class VaibhavKarad:
+    def __init__(self):
+        self.mindset = "Never say 'I don't know'"
+        self.origin = "Maharashtra 🌱 - Land of Warriors"
+        self.mission = "Transform challenges into scalable solutions"
+        self.expertise = ["DevOps", "AI Workflows", "Cloud Architecture"]
+        self.superpower = "Problem-solving with relentless determination"
+
+    def solve_any_problem(self, challenge):
+        """When faced with any challenge"""
+        return self.find_solution(challenge) or self.build_solution(challenge)
+```
+
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+### 📊 **Impact Metrics**
+
+- 🎯 **99.9%** Infrastructure Uptime
+- ⚡ **70%** Faster Deployments
+- 🔄 **100%** Automated Workflows
+- 📈  Technical Articles
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌐 DevOps Learning Hub
+<!-- Technology Stack with Advanced Visualization -->
 
-> Empowering DevOps & Cloud learners — one resource at a time.
+[![My Skills](https://skillicons.dev/icons?i=bash,gcp,git,jenkins,docker,kubernetes,terraform,vscode)](https://skillicons.dev)
 
-Your one-stop destination for practical DevOps knowledge and hands-on experience.
+Hey there! 👋 I'm **Manan**, a Google Cloud Engineer with a knack for turning chaotic clouds into well-orchestrated skies. 🌤️
+You know that feeling when your CI/CD pipeline works on the first try? Yeah, me neither but when it does happen, it's pure magic! ✨ When I'm not herding Kubernetes clusters or automating everything in sight, you'll find me exploring new tools, tweaking my setups, or hunting down that one elusive bug that only appears in production (because of course it does).
 
-### 📚 Learning Resources
-- 💻 **Real-Time Projects Hub** – Hands-on projects from beginner to advanced  
-- 📚 **Docs Portal** – 900+ curated DevOps articles & study materials  
-- 📦 **Repositories Central** – Scripts, infrastructure code & preparation content  
-- 🧭 **Jobs Portal** – DevOps career opportunities and job listings  
-- 📰 **DevOps Blog** – Best practices, deep dives, and tutorials  
-- ☁️ **Cloud Blog** – Real-world architecture and deployment guides  
-- 🐳 **Docker to Kubernetes** – Master containerization workflows  
-- 🧰 **Tools & Guides** – Installers, setup guides, and environment toolkits  
-- 📑 **Cheatsheets** – Handy references for tools and best practices  
-- 📊 **Monitoring in a Box** – Prometheus, Grafana, Loki & more, pre-configured
+## A Few Things About Me:
 
----
+💻 **Cloud Whisperer**: I thrive on building scalable, secure, and automated solutions that make the cloud behave just right.
 
-## 🎯 Mission
+🔧 **K8s Tinkerer**: From Helm charts to secrets management, Kubernetes is my playground.
 
-DevOps knowledge should be accessible to everyone. We believe in:
+🐚 **Bash Believer**: For when I need to automate all the things.
 
-- 🔓 Breaking down paywalls  
-- 🛠️ Learning by building  
-- 🤝 Community-driven growth  
-- 📈 Continuous improvement  
-- 🌍 Global collaboration  
+🐍 **Python Enthusiast**: Scripting magic for automation, testing, and custom tooling.
+
+🔨 **Jenkins Advocate**: Building robust CI/CD pipelines that (usually) work on the first try.
+
+☕ **Code & Coffee Enthusiast**: Fuel for the brain while debugging YAML files and pipelines.
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
-- [LinkedIn](#)  
-- [GitHub](#)  
-- [Telegram](#)  
-- [Email](#)
 
----
+### 💬 **Open for Opportunities:**
 
-## 📂 Featured Repositories
+`Senior DevOps Engineer` • `Platform Engineering` • `Site Reliability Engineering` • `Cloud Architecture` • `Technical Writing`
 
-### 🌟 Popular Projects
-- DevOps Real-Time Projects  
-- Kubernetes Learning Path  
-- 1100+ DevOps Interview Questions  
-- AWS DevOps Deployment Templates  
-
-### 🔧 Tools & Guides
-- CI/CD Pipeline for AWS EKS  
-- DevOps Tool Installer  
-- Azure DevOps Guide  
-- DevOps Cheatsheet  
-
----
-
-## 📝 Latest Blog Posts
-
-- ✍️ [Scripting in DevOps](#)  
-- 📁 [Linux Filesystem Deep Dive](#)  
-- 🐳 [Docker Concepts Explained](#)  
-- ☸️ [Kubernetes Essentials](#)
-
----
-
-## ⚙️ Tech Stack
-
-| Cloud | CI/CD | Containers | Infra & Monitoring |
-|-------|------|------------|--------------------|
-| AWS, Azure, GCP | Jenkins, GitHub Actions, GitLab CI | Docker, Kubernetes, Helm | Terraform, Ansible, Prometheus, Grafana |
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=croodycoder&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=croodycoder&layout=compact&theme=dark" height="170"/>
-</p>
-
----
-
-## 🏆 Community Impact
-
-- 🌟 5000+ GitHub stars across projects  
-- 🍴 1000+ forks  
-- 👨‍💻 50+ open-source contributors  
-- 📚 900+ curated learning resources shared  
-
----
-
-## 💝 Support My Work
-
-> If you find my work helpful, consider supporting it — it helps me keep creating valuable DevOps content.
-
-- [☕ Buy Me a Coffee](#)  
-- [💰 Sponsor on GitHub](#)  
-- [❤️ Ko-Fi](#)
-
----
-
-<p align="center">
-  <img src="assets/footer.png" width="100%" />
-</p>
+</div>
