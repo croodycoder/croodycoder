@@ -31,7 +31,7 @@
 ### 🐍 **Philosophy**
 
 ```python
-class VaibhavKarad:
+class croodycoder:
     def __init__(self):
         self.mindset = "Never say 'I don't know'"
         self.origin = "Maharashtra 🌱 - Land of Warriors"
